@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">A recent Computer Science Graduate</h3>
 
+<h3 align="left">I am interested in: </h3>
+<p align="left"> An application security position that will enable me to use my Software Engineering and Cybersecurity skillsets to effectively protect applications and APIs from being accessed by bad actors or misused. 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/colinjhoffman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="colinjhoffman" height="30" width="40" /></a>
